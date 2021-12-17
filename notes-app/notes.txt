@@ -1,0 +1,1 @@
+This file was created by Nodejs! The data you append. You only have to do this like this, use try-catch only if required.
